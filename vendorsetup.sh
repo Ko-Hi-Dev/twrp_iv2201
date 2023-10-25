@@ -1,3 +1,3 @@
 #! bash
-lunch twrp_denniz-eng
-lunch twrp_denniz-userdebug
+lunch twrp_ivan-eng
+lunch twrp_ivan-userdebug
