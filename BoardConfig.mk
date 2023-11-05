@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/oneplus/IV2201
+DEVICE_PATH := device/oneplus/ivan
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -42,7 +42,7 @@ TARGET_NO_BOOTLOADER := true
 TARGET_BOARD_PLATFORM := mt6893
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := OP555BL1,IV2201,IV2201EEA
+TARGET_OTA_ASSERT_DEVICE := OP555BL1,IV2201,IV2201EEA,ivan
 
 # Kernel
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2
