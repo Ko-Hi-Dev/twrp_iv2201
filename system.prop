@@ -10,3 +10,4 @@ ro.sys.usb.charging.only=yes
 ro.sys.usb.mtp.whql.enable=0
 ro.sys.usb.storage.type=mtp
 ro.vendor.mtk_trustonic_tee_support=1
+ro.separate.soft=21876
